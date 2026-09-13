@@ -1,7 +1,8 @@
 # 🐾 CLYVO VET — Componente de Inteligência Preditiva para Triagem Clínica
 
 > **Sprint 3:** Disruptive Architectures: IoT, IoB & Generative AI  
-> **Integrantes:** Guilherme Santos Fonseca, RM 564232 - Gustavo Araujo da Silva, RM 566526, Anthony de Souza Henriques, RM 566188 
+> **Integrantes:** Guilherme Santos Fonseca, RM 564232 - Gustavo Araujo da Silva, RM 566526, Anthony de Souza Henriques, RM 566188
+> 
 > **Link do Vídeo:**  `https://www.youtube.com/`  
 > **Repositório GitHub:** `https://github.com/Challenge-2TDSPX-2026/Modelo-IA-ClyvoVet`
 
