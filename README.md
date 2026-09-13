@@ -2,8 +2,8 @@
 
 > **Sprint 3:** Disruptive Architectures: IoT, IoB & Generative AI  
 > **Integrantes:** Guilherme Santos Fonseca  
-> **Link do Vídeo Pitch (YouTube - Não Listado):** `https://www.youtube.com/watch?v=SEU_LINK_AQUI`  
-> **Repositório GitHub:** `https://github.com/SEU_USUARIO/clyvo-vet-ia`
+> **Link do Vídeo  `https://www.youtube.com/`  
+> **Repositório GitHub:** `https://github.com/Challenge-2TDSPX-2026/Modelo-IA-ClyvoVet`
 
 ---
 
